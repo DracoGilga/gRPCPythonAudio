@@ -1,0 +1,65 @@
+# Ignorar todos los archivos de audio y video
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.aac
+*.wma
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+*.wmv
+*.mpeg
+*.mpg
+*.webm
+*.3gp
+*.m4v
+*.aac
+*.m4a
+*.mka
+*.opus
+*.ra
+*.rm
+*.wav
+*.wma
+*.wma
+*.m4b
+*.m4p
+*.oga
+*.wma
+*.asf
+*.opus
+# Archivos generados por Python
+*.pyc
+__pycache__
+
+# Entornos virtuales
+env/
+venv/
+
+# Archivos de dependencias
+/lib/
+/include/
+
+# Archivos de registro y salida
+*.log
+*.txt
+
+# Archivos de configuración
+.env
+
+# Archivos de caché y datos temporales
+*.swp
+*.swo
+.DS_Store
+
+# Archivos de compilación y construcción
+/build/
+/dist/
+
+#eliminacion de carpetas
+recursos/
+
+ServidorBlobStorage.py
